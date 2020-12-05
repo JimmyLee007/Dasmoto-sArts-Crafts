@@ -1,6 +1,6 @@
-#Web Developement Fundamentals Project 1
+# Web Developement Fundamentals Project 1
 
-##Dasmoto's Arts & Crafts
+## Dasmoto's Arts & Crafts
 
 My first website devleoped from scratch using the following tools/ technologies :
 
